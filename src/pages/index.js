@@ -1,5 +1,5 @@
-import Image from "next/image";
-import { Head } from "next/document";
+
+import Head from "next/head";
 
 //Global
 import { useReducer } from "react";
